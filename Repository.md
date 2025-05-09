@@ -17,7 +17,7 @@
 
 | ファイル名 | 目的 |
 |------------|------|
-| `Amnesiac_Unlearning‑MNIST.ipynb` | Δθ ロギングと巻き戻しの最小例（MNIST） |
+| `Amnesiac_Unlearning‑MNIST.ipynb` | MNISTを用いて既存Unlearning手法とAmnesiac手法を検証 |
 | `Unlearning_Tester‑CIFAR100.ipynb` | 誤ラベル学習(既存手法)による Unlearning を CIFAR‑100/ResNet‑18 で検証 |
 | `Amnesiac_ML_Evaluation.ipynb` | Amnesiac 手法を削除比率 0.1‑50 % でスケール評価 |
 | `Model_Inversion_Attacks.ipynb` | 汎用モデル反転攻撃のベース実装 |
